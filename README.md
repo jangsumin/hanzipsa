@@ -65,9 +65,9 @@
 
 ### 회원가입
 
-![회원가입_1](/uploads/d074188bd77b43789fec053d1c8cca5f/회원가입_1.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/6e1be461-ad53-4a5d-8695-4388d412f632" width="500" />
 
-![회원가입_2](/uploads/05dcf200dd53104b7154862cb4859329/회원가입_2.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/42524bc5-5b83-425f-ba64-851a84da880d" width="500" />
 
 - 이름, 성별, 생년월일, 거주지, 이메일, 비밀번호를 설정하여 서비스에 이용합니다.
 - 특히, 거주지를 입력받아 지도 매칭 서비스에서 내 위치 기반으로 주변 집사 정보를 검색할 수 있습니다.
@@ -75,7 +75,7 @@
 
 ### 홈페이지
 
-![홈페이지](/uploads/3d365960b03820216989948893d521f5/홈페이지.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/9c43d3ba-d71d-4f93-8bd2-bee17f59b5b2" width="500" />
 
 저희 서비스는 세 가지 성격의 사용자가 존재합니다.
 
@@ -101,11 +101,9 @@
 
 ### 지도 기반 매칭
 
-![지도_1](/uploads/d58e62b839eb367fc1114caad2d3213f/지도_1.png){: width="80%"}
-
-![지도_2](/uploads/e6fc64fe2ed4668c1c0351d4802130ef/지도_2.png){: width="80%"}
-
-![지도_3](/uploads/ab0734fd46df597028711fc84eaaf671/지도_3.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/e0725e8f-aaa1-467c-b88f-8e041df6bc69" width="500" />
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/0618fcbd-d5e0-4eda-bd38-83f5064b796c" width="500" />
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/62513449-c193-4ab4-9584-4049e2426faf" width="500" />
 
 - 회원가입 시 입력한 주소 기반으로 2km 반경의 활동상태의 집사를 보여줍니다.
 - 클러스터링 된 원을 지도에서 누르게 되면 해당 범위의 집사 목록을 볼 수 있고, 해당 집사 정보를 확인하여 매칭을 신청할 수 있습니다.
@@ -113,11 +111,9 @@
 
 ### 필터링 기반 매칭
 
-![필터링_1](/uploads/d466461b933fc88e1c43d7ab48a47aab/필터링_1.png){: width="80%"}
-
-![필터링_2](/uploads/73d18cd40492873600b50366d77567f7/필터링_2.png){: width="80%"}
-
-![필터링_3](/uploads/5cd1b22b974f9b86e6e4c47bce721a8c/필터링_3.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/a7e470c0-47b1-44d9-93ca-17a7c2ba97ed" width="500" />
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/2c523cde-9c06-47bc-aece-7bd2e40c8b87" width="500" />
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/db54ef9f-4cb1-40c0-bd54-591f52bdbbe0" width="500" />
 
 - 내가 받고자 하는 서비스를 대분류, 소분류 태그를 선택하여 설정하고, 집사 세부 조건을 필터링하여 해당 조건에 맞는 집사를 보여줍니다.
 - 조건에 맞는 집사 목록 중 자신이 원하는 집사를 선택하여 서비스를 신청할 수 있습니다.
@@ -125,17 +121,15 @@
 
 ### 공개 방 매칭
 
-![공개방_1](/uploads/008cb4f3175af21446d3c77ec05dd36a/공개방_1.png){: width="80%"}
-
-![공개방_2](/uploads/93aea2ac757a55261ce505d4d394b5ba/공개방_2.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/5285a921-55e0-4267-a4d9-7d45df5c59cd" width="500" />
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/a770d9f8-f179-494e-b833-4cc82c4b35c9" width="500" />
 
 - 지도 기반 매칭, 필터링 기반 매칭으로도 원하는 집사를 찾을 수 없을 경우, 자신이 원하는 서비스를 공개방에 등록하여 집사의 요청을 받을 수 있습니다.
 
 ### 게시판 조회
 
-![게시판조회_1](/uploads/f74936858e7ec319d76c87badf8cb047/게시판조회_1.png){: width="80%"}
-
-![게시판조회_2](/uploads/b06b5eeac703cbc19f28643888e323b2/게시판조회_2.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/8bbe1453-dba7-4c84-845d-0d3dadb847ec" width="500" />
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/c224238a-bbf6-4aa2-8860-87d1c688b238" width="500" />
 
 - 태그를 선택하여 게시물 목록의 검색 조건을 설정할 수 있습니다.
 - 태그의 구성은 맛집 추천, 동네 소식, 집사 후기, 동네 모임, 생활 꿀팁, 일상 공유로 구성이 되어있습니다.
@@ -143,35 +137,35 @@
 
 ### 게시물 댓글 조회, 작성, 삭제
 
-![게시판댓글_1](/uploads/28d948893b7a9fb231146dfab53d3164/게시판댓글_1.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/2722e1f4-255d-4a56-aaae-b83088dab7f2" width="500" />
 
 - 게시물에 댓글을 작성하여 사용자들과 소통할 수 있습니다.
 
 
 ### 게시물 작성
 
-![게시물작성](/uploads/06b703907fa147cbe15ad77112325ccc/게시물작성.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/e96671e8-1958-4061-8716-5f24147bdf03" width="500" />
 
 - 태그를 선택하여 게시물을 등록할 수 있습니다.
 
 
 ### 게시물 수정
 
-![게시물수정](/uploads/e4656aaa56f5a063112a67c906aa9095/게시물수정.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/9081fc47-25c7-4ad0-b09c-7a522f50f26f" width="500" />
 
 - 게시물 수정이 가능합니다.
 
 
 ### 게시물 삭제
 
-![게시물삭제](/uploads/45fc7c815d91af07d4043fef4ad62297/게시물삭제.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/63ef267e-53cc-47d8-bf10-7a0da54b3654" width="500" />
 
 - 게시물 삭제가 가능합니다.
 
 
 ### 마이 페이지 사용 내역, 게시글, 결제 수단
 
-![내역_게시글_결제수단](/uploads/8d9f4d20e80e42aab0c55a61bbafed6d/내역_게시글_결제수단.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/d1d2b036-fa4b-4a01-b9a2-6136b8e559cd" width="500" />
 
 - 집사에게 의뢰했던 내용들을 목록으로 볼 수 있습니다. 주요 내용으로는 의뢰를 수행한 집사의 이름, 업무를 수행한 날짜, 맡긴 일, 지불한 금액 이 있습니다.
 - 사용자가 작성한 게시물을 한 눈에 볼 수 있도록 목록으로 보여줍니다.
@@ -181,7 +175,7 @@
 
 ### 마이 페이지 연동 계정 참가
 
-![연동계정참가](/uploads/201dff5929ceaa0f705ca5968785a347/연동계정참가.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/2ebc1ba2-4155-4a06-b16b-6338774a5c7e" width="500" />
 
 - 연동 계정을 생성 하거나 구성원으로 참여할 수 있도록 버튼을 보여줍니다.
 - 연동 계정 참가 코드를 입력할 수 있는 페이지를 보여주고 알맞은 참가 코드를 입력시 연동 계정 정보가 추가됩니다.
@@ -189,7 +183,7 @@
 
 ### 마이 페이지 연동 계정 생성
 
-![연동계정대표](/uploads/015abefe1ac393b24d24f4a9caa42dd7/연동계정대표.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/a7e2034e-c036-44b2-9e23-df44ae4676c1" width="500" />
 
 - 연동 계정을 생성 하거나 구성원으로 참여할 수 있도록 버튼을 보여줍니다.
 - 대표로 등록을 하기 위해 약관에 동의를 받은 후 가입하기 버튼이 활성화 됩니다.
@@ -201,9 +195,8 @@
 
 ### 집사 신청
 
-![집사신청_1](/uploads/d5c26d6e67101bff871d1d821a8075f5/집사신청_1.png){: width="80%"}
-
-![집사신청_2](/uploads/deaa1c9e3c3a62a79dafc6e3072b92d4/집사신청_2.png){: width="54%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/ed8eeebb-e3b0-4fb7-9a4e-85ff6645262d" width="500" />
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/091016bd-474d-4792-95ed-6f312035c29f" width="500" />
 
 - 집사 되기를 클릭 시 집사의 이득과 지원 절차를 보여줍니다.
 - 집사 활동에 필요한 집사의 정보를 입력 받습니다.
@@ -213,7 +206,7 @@
 
 ### 집사 마이페이지
 
-![집사마이페이지](/uploads/e04e612ef6321a51e31c0738721c7111/집사마이페이지.png){: width="80%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/f0d75076-64eb-4459-a3d7-a734b363012c" width="500" />
 
 - 집사인 상태로 마이 페이지를 클릭 하는 경우 현재 집사의 이름과 프로필 이미지, 등급 정보, 다이아 점수, 활동 내역 보기를 제공합니다.
 - 집사로 활동한 내역들의 목록을 볼 수 있습니다.
@@ -221,21 +214,21 @@
 
 ### 비밀번호 수정
 
-![비밀번호수정](/uploads/c6e97a4a7f81bd260fe065a9205eaa40/비밀번호수정.png){: width="26%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/5f72fc42-32bd-4808-82bc-112ea8102e38" width="200" />
 
 - 사용자의 비밀번호를 변경하는 페이지로 비밀번호를 변경할 때 확인 작업도 같이 합니다.
 
 
 ### 사용자 예약 내역
 
-![사용자예약내역_1](/uploads/53c36b56d0df39810658307be16b4d0d/사용자예약내역_1.png){: width="54%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/f64c7e7e-cedc-4812-aeae-aa6b84c1f65a" width="500" />
 
 - 사용자가 예약한 업무의 목록을 나타냅니다.
 - 예정된 업무의 간단한 정보를 보여주고 우측에 있는 화살표 버튼을 클릭 시 해당 업무의 상세 정보를 조회 할 수 있습니다.
 
 ### 집사 예약 내역
 
-![집사예약내역_1](/uploads/f5a8aefd2141823c51540a55618ac9b2/집사예약내역_1.png){: width="54%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/87ecb796-f4f2-4a76-abae-74a5bb3be2a9" width="500" />
 
 - 집사가 예약한 업무의 목록을 나타냅니다.
 - 예정된 업무의 간단한 정보를 보여주고 우측에 있는 화살표 버튼을 클릭 시 해당 업무의 상세 정보를 조회 할 수 있습니다.
@@ -245,7 +238,7 @@
 
 ### 집사 정기 보고서 작성
 
-![정기보고_1](/uploads/d6088fa011b339627fcc132343282260/정기보고_1.png){: width="54%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/e22a2059-ecc4-4433-95d5-72706e4b2c8f" width="500" />
 
 - 활동 사진과 해당 서비스 진행상황을 보고합니다.
 - 보고서 작성을 완료하면 완료 페이지로 이동합니다.
@@ -253,7 +246,7 @@
 
 ### 사용자 알림
 
-![사용자_1](/uploads/f882fc7b851af35584762c1ec8084865/사용자_1.png){: width="54%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/19414c09-c76c-491d-8a1c-a78507d81ecf" width="500" />
 
 - 집사가 정기 보고서를 작성하면 사용자에게 알림이 발송됩니다.
 - 우측에 있는 화살표를 클릭하면 작성된 정기 보고서를 확인할 수 있습니다.
@@ -261,7 +254,7 @@
 
 ### 집사 알림
 
-![집사_1](/uploads/925e24e2be5fdefa93eb183f42e7c6be/집사_1.png){: width="54%"}
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/15cbe907-cc84-41ee-9102-6f8c0e5294e2" width="500" />
 
 - 사용자가 집사에게 제안을 보내면 알림이 발송됩니다.
 - 우측에 있는 화살표를 클릭하면 제안의 상세 정보를 조회와 동시에 수락, 거절 버튼이 나타납니다.
@@ -298,15 +291,15 @@
 
 ERD
 
-![ERD](/uploads/0a21f5a0b94347efecbca148653d47a9/ERD.png)
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/fbe2327f-7c5b-493d-99e0-9afc60c3348c" width="500" />
 
 아키텍처 설계
 
-![A407](/uploads/d4d7732fa3722b3214b417c22516cf6d/A407.png)
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/d9efd91a-8438-4cca-9ba7-cf3396b7daf5" width="500" />
 
 Figma
 
-![figma_fix](/uploads/b7294680372fc3af2bcf1c4e5dc2d813/figma_fix.png)
+<img src="https://github.com/jangsumin/hanzipsa/assets/29765842/56e246fa-0608-4ab4-b24d-648b22b0f853" width="500" />
 
 ## 팀원 소개
 
